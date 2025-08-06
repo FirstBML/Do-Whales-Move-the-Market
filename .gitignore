@@ -4,3 +4,4 @@ venv/
 __pycache__/
 *.pyc
 python -m venv venv.txt/
+whale_transactions.txt/
