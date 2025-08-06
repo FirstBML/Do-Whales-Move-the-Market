@@ -1,3 +1,6 @@
-do-whales-move-the-market
-* .env
-venv
+/.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+python -m venv venv.txt/
